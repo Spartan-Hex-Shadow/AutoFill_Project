@@ -1,0 +1,70 @@
+This tree starts with Partial [word=Ac] --> The heaps contains:
+[1] Node [word=Activate, frequency=1]
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts has no nodes
+^^^ Printing A's Red-Black tree ROOT
+Partial [word=Ac] --> The heaps contains:
+[1] Node [word=Activate, frequency=1]
+&&& Printing A's Red-Black ENTIRE tree
+Partial [word=A] --> The heaps contains:
+[1] Node [word=A, frequency=4]
+
+Partial [word=Ac] --> The heaps contains:
+[1] Node [word=Activate, frequency=1]
+
+Partial [word=An] --> The heaps contains:
+[1] Node [word=An, frequency=1]
+
+*** Printing immediate matches for 'An'
+Node [word=An, frequency=1]
+null
+null

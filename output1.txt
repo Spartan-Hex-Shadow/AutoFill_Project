@@ -1,0 +1,157 @@
+This tree starts with Partial [word=Ac] --> The heaps contains:
+[1] Node [word=Activate, frequency=1]
+This tree starts has no nodes
+This tree starts with Partial [word=Ch] --> The heaps contains:
+[1] Node [word=Changelog, frequency=1]
+This tree starts with Partial [word=De] --> The heaps contains:
+[1] Node [word=Description, frequency=1]
+This tree starts with Partial [word=Ex] --> The heaps contains:
+[1] Node [word=Example, frequency=1]
+This tree starts with Partial [word=Fo] --> The heaps contains:
+[1] Node [word=For, frequency=2]
+This tree starts with Partial [word=GP] --> The heaps contains:
+[1] Node [word=GPLv, frequency=1]
+This tree starts with Partial [word=He] --> The heaps contains:
+[1] Node [word=Heres, frequency=1]
+[2] Node [word=Here, frequency=1]
+This tree starts with Partial [word=In] --> The heaps contains:
+[1] Node [word=Installation, frequency=1]
+[2] Node [word=In, frequency=1]
+This tree starts has no nodes
+This tree starts has no nodes
+This tree starts with Partial [word=Li] --> The heaps contains:
+[1] Node [word=License, frequency=2]
+[2] Node [word=List, frequency=1]
+This tree starts with Partial [word=Ma] --> The heaps contains:
+[1] Node [word=Markdown, frequency=5]
+[2] Node [word=Markdowns, frequency=1]
+This tree starts with Partial [word=Na] --> The heaps contains:
+[1] Node [word=Name, frequency=1]
+This tree starts with Partial [word=Or] --> The heaps contains:
+[1] Node [word=Ordered, frequency=1]
+This tree starts with Partial [word=Pl] --> The heaps contains:
+[1] Node [word=Plugins, frequency=1]
+[2] Node [word=Place, frequency=1]
+[3] Node [word=Plugin, frequency=1]
+This tree starts with Partial [word=Qu] --> The heaps contains:
+[1] Node [word=Questions, frequency=1]
+This tree starts with Partial [word=Re] --> The heaps contains:
+[1] Node [word=Requires, frequency=2]
+This tree starts with Partial [word=So] --> The heaps contains:
+[1] Node [word=Something, frequency=1]
+[2] Node [word=Some, frequency=1]
+This tree starts with Partial [word=Te] --> The heaps contains:
+[1] Node [word=Tested, frequency=2]
+This tree starts with Partial [word=Un] --> The heaps contains:
+[1] Node [word=Unordered, frequency=1]
+This tree starts has no nodes
+This tree starts with Partial [word=Wh] --> The heaps contains:
+[1] Node [word=What, frequency=1]
+This tree starts has no nodes
+This tree starts with Partial [word=Yo] --> The heaps contains:
+[1] Node [word=Your, frequency=1]
+[2] Node [word=You, frequency=1]
+This tree starts has no nodes
+This tree starts with Partial [word=ab] --> The heaps contains:
+[1] Node [word=about, frequency=5]
+[2] Node [word=above, frequency=3]
+This tree starts with Partial [word=be] --> The heaps contains:
+[1] Node [word=be, frequency=7]
+[2] Node [word=been, frequency=1]
+[3] Node [word=below, frequency=1]
+This tree starts with Partial [word=ch] --> The heaps contains:
+[1] Node [word=characters, frequency=2]
+[2] Node [word=change, frequency=2]
+[3] Node [word=changes, frequency=2]
+This tree starts with Partial [word=di] --> The heaps contains:
+[1] Node [word=directory, frequency=4]
+[2] Node [word=displaying, frequency=1]
+[3] Node [word=disclosed, frequency=1]
+[4] Node [word=dilemma, frequency=1]
+This tree starts with Partial [word=el] --> The heaps contains:
+[1] Node [word=else, frequency=2]
+[2] Node [word=eliminate, frequency=1]
+This tree starts with Partial [word=fe] --> The heaps contains:
+[1] Node [word=feature, frequency=2]
+[2] Node [word=few, frequency=1]
+This tree starts with Partial [word=gi] --> The heaps contains:
+[1] Node [word=gif, frequency=1]
+This tree starts with Partial [word=he] --> The heaps contains:
+[1] Node [word=here, frequency=1]
+This tree starts with Partial [word=im] --> The heaps contains:
+[1] Node [word=immediately, frequency=1]
+This tree starts with Partial [word=jp] --> The heaps contains:
+[1] Node [word=jpg, frequency=1]
+[2] Node [word=jpeg, frequency=1]
+This tree starts has no nodes
+This tree starts with Partial [word=le] --> The heaps contains:
+[1] Node [word=least, frequency=2]
+[2] Node [word=length, frequency=1]
+This tree starts with Partial [word=me] --> The heaps contains:
+[1] Node [word=menu, frequency=1]
+This tree starts with Partial [word=ne] --> The heaps contains:
+[1] Node [word=needs, frequency=1]
+This tree starts with Partial [word=ol] --> The heaps contains:
+[1] Node [word=oldest, frequency=1]
+This tree starts with Partial [word=ph] --> The heaps contains:
+[1] Node [word=php, frequency=2]
+This tree starts with Partial [word=qu] --> The heaps contains:
+[1] Node [word=question, frequency=2]
+This tree starts with Partial [word=re] --> The heaps contains:
+[1] Node [word=readmetxt, frequency=5]
+[2] Node [word=reflect, frequency=1]
+[3] Node [word=related, frequency=1]
+[4] Node [word=readme, frequency=1]
+[5] Node [word=recent, frequency=1]
+[6] Node [word=reason, frequency=1]
+This tree starts with Partial [word=sh] --> The heaps contains:
+[1] Node [word=should, frequency=5]
+[2] Node [word=short, frequency=2]
+[3] Node [word=shot, frequency=2]
+[4] Node [word=shown, frequency=1]
+This tree starts with Partial [word=te] --> The heaps contains:
+[1] Node [word=test, frequency=1]
+[2] Node [word=templates, frequency=1]
+This tree starts with Partial [word=up] --> The heaps contains:
+[1] Node [word=up, frequency=3]
+[2] Node [word=update, frequency=1]
+[3] Node [word=upgrade, frequency=1]
+This tree starts with Partial [word=ve] --> The heaps contains:
+[1] Node [word=version, frequency=8]
+[2] Node [word=verified, frequency=1]
+[3] Node [word=versions, frequency=2]
+This tree starts with Partial [word=wh] --> The heaps contains:
+[1] Node [word=where, frequency=2]
+[2] Node [word=what, frequency=1]
+This tree starts has no nodes
+This tree starts with Partial [word=yo] --> The heaps contains:
+[1] Node [word=you, frequency=6]
+[2] Node [word=your, frequency=2]
+[3] Node [word=youve, frequency=2]
+This tree starts has no nodes
+^^^ Printing A's Red-Black tree ROOT
+Partial [word=Ac] --> The heaps contains:
+[1] Node [word=Activate, frequency=1]
+&&& Printing A's Red-Black ENTIRE tree
+Partial [word=A] --> The heaps contains:
+[1] Node [word=A, frequency=4]
+
+Partial [word=Ac] --> The heaps contains:
+[1] Node [word=Activate, frequency=1]
+
+Partial [word=An] --> The heaps contains:
+[1] Node [word=Another, frequency=2]
+[2] Node [word=An, frequency=1]
+[3] Node [word=Answer, frequency=1]
+
+Partial [word=Ar] --> The heaps contains:
+[1] Node [word=Arbitrary, frequency=2]
+
+Partial [word=As] --> The heaps contains:
+[1] Node [word=Asterisks, frequency=1]
+[2] Node [word=Asked, frequency=1]
+
+*** Printing immediate matches for 'Ar'
+Node [word=Arbitrary, frequency=2]
+null
+null

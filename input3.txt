@@ -1,0 +1,8 @@
+Node [word=A, frequency=4]
+Node [word=Activate, frequency=1]
+Node [word=An, frequency=1]
+Node [word=Another, frequency=2]
+Node [word=Answer, frequency=1]
+Node [word=Arbitrary, frequency=2]
+Node [word=Asked, frequency=1]
+Node [word=Asterisks, frequency=1]
